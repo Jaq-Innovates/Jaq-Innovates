@@ -1,5 +1,5 @@
 👋 Hi, I’m Andres Martinez
-👀 I’m passionate about creation, ideation, and development on all levels, with a focus on integrating software with finance, economics, and machine learning.
+👀 I’m passionate about creation, ideation, and development on all levels, with a focus on integrating software and machine learning with finance and economics.
 🌱 I’m currently expanding my knowledge in C#, C++, and Python.
 💡 My key interests lie in building machines to create intelligent, data-driven solutions for real-world financial challenges.
 🤖 I aspire to build AI systems and machine learning models that enhance decision-making, automate financial processes, and improve investment strategies by learning from historical and real-time data.
